@@ -6,7 +6,7 @@ User ID: Unique identifier for the user.
 Subscription Type: Type of subscription (Basic, Standard, Premium).
 Monthly Revenue: Revenue generated per month.
 Join Date: Date when the user joined.
-Last Payment Date: Date of the last payment.
+Last Payment Date: Date of the previous payment.
 Country: Country of the user.
 Age: Age of the user.
 Gender: Gender of the user.
