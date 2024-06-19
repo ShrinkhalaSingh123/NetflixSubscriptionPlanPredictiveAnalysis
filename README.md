@@ -1,2 +1,1 @@
-# NetflixSubscriptionPlanPredictiveAnalysis
-Netflix Subscription Plan Predictive Analysis
+# Netflix Subscription Plan Predictive Analysis
